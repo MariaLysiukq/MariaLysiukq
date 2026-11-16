@@ -28,8 +28,9 @@ Open to backend and AI engineering internships and junior roles.
 | Project | Description | Stack |
 |---|---|---|
 | [Task Tracker API](https://github.com/MariaLysiukq/Task-Tracker-API) | Multi-user project and task management API with roles, memberships and pagination | FastAPI, async SQLAlchemy, PostgreSQL, Alembic |
-| [Claude Code Analytics](https://github.com/MariaLysiukq/claude-code-analytics-platform) | Cloud-native telemetry analytics with API and dashboard | FastAPI, Streamlit, Neon |
-| [API Gateway Rate Limiter](https://github.com/MariaLysiukq/API-Gateway-Rate-Limiter-Analytics-) | Async gateway with Redis rate limiting and background analytics | Python, Redis, asyncio |
-| [Tactical Report Analyzer](https://github.com/MariaLysiukq/tactical-report-analyzer) | Microservice analyzing operational reports with a local LLM | FastAPI, Ollama |
+| [Claude Code Analytics](https://github.com/MariaLysiukq/claude-code-analytics-platform) | Cloud-native telemetry analytics with API and dashboard ([live demo](https://claude-code-analytics-platform1.streamlit.app/)) | FastAPI, Streamlit, Neon |
+| [IFC Model Health Checker](https://github.com/MariaLysiukq/ifc_checker) | CLI that validates BIM models against configurable rules and generates HTML, Excel and BCF reports | Python, ifcopenshell, pandas |
+| [API Gateway Rate Limiter](https://github.com/MariaLysiukq/API-Gateway-Rate-Limiter-Analytics-) | Async gateway with API keys, Redis sliding-window rate limiting and live analytics | FastAPI, Redis, PostgreSQL |
+| [Tactical Report Analyzer](https://github.com/MariaLysiukq/tactical-report-analyzer) | Microservice turning operational reports into structured analysis with an LLM | FastAPI, OpenAI API, Pydantic |
 | [Music Genre Classifier](https://github.com/MariaLysiukq/music-genre-classifier) | ML model classifying music genres from audio features | Python, ML |
 
